@@ -1,0 +1,1 @@
+2022A7PS0800G - all parts of 1.1 (States and Operations): built all states, implemented operations O1-O6, wrote predictions and analysis answers. Worked solo.
