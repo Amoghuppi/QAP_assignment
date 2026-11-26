@@ -1,0 +1,1 @@
+2022A7PS0800G - all parts of 1.2 (Simulations and Analysis): implemented S1-S8 (purity checks, route-consistency checks, partial trace, noise-channel sweeps, quantum trajectories, full team-instance simulation at Level 3, and scaling benchmarks), and wrote all Level 2/3 analysis answers. Worked solo.
